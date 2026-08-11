@@ -38,4 +38,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uqie-rach&show_icons=true&locale=en" alt="uqie-rach" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uqie-rach&" alt="uqie-rach" /></p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=uqie-rach&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=uqie-rach&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=uqie-rach&show_icons=true&theme=radical&hide_border=true" alt="GitHub Extended Stats" />
+  </picture>
+</p>
