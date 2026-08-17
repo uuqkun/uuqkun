@@ -25,9 +25,7 @@
 
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=https%3A%2F%2Fwakatime.com%2F%400d4312a9-9778-4d70-8d63-1508135dfe22&langs_count=4&display_format=percent&theme=tokyonight)](https://wakatime.com/@https://wakatime.com/@0d4312a9-9778-4d70-8d63-1508135dfe22)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=uqie-rach&layout=compact&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=uqie-rach&layout=compact&langs_count=5&theme=tokyonight)
+<figure><embed src="https://wakatime.com/share/@0d4312a9-9778-4d70-8d63-1508135dfe22/43422e69-5807-4667-82f6-3ae500f0d355.svg"></embed></figure>
 
 <p align="center">
   <picture>
