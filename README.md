@@ -25,12 +25,5 @@
 
 
 ### 📊 GitHub Stats
-<figure><embed src="https://wakatime.com/share/@0d4312a9-9778-4d70-8d63-1508135dfe22/43422e69-5807-4667-82f6-3ae500f0d355.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@0d4312a9-9778-4d70-8d63-1508135dfe22/369d78da-cbc8-46be-abc6-aedb27a7e093.svg"></embed></figure>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=uqie-rach&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=uqie-rach&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-stats-extended.vercel.app/api?username=uqie-rach&show_icons=true&theme=radical&hide_border=true" alt="GitHub Extended Stats" />
-  </picture>
-</p>
